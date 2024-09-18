@@ -1,4 +1,8 @@
 # App kinh doanh nội thất.
+
+### Link youtube
+https://www.youtube.com/watch?v=sqzqK5aIJZY
+
 ## Giao diện đăng nhập, Đăng kí.
 <img width="345" alt="22" src="https://github.com/user-attachments/assets/9f01aed3-ffee-4a6c-81db-a642ce4cc4e1">
 <img width="345" alt="21" src="https://github.com/user-attachments/assets/80877fc8-7026-45ca-b43a-1b328707d886">
